@@ -1,8 +1,13 @@
 # Java Telephone App Assignment
 
-![Telephone App Screenshot](screenshot/your-image-name.png)
-
 A Java Swing GUI desktop application built with Maven that simulates a telephone keypad interface.
+
+## Screenshots
+
+<p align="center">
+  <img src="screenshot/dialpad.jpg" width="45%" alt="Dialpad View" />
+  <img src="screenshot/phonecall.jpg" width="45%" alt="Calling View" />
+</p>
 
 ## Features
 
@@ -24,5 +29,5 @@ A Java Swing GUI desktop application built with Maven that simulates a telephone
 
 1. **Clone the repository:**
    ```bash
-   git clone [https://github.com/JosefTewodros12/Java_TelephoneApp_Assignment.git](https://github.com/JosefTewodros12/Java_TelephoneApp_Assignment.git)
-   cd Java_TelephoneApp_Assignment
+   git clone [https://github.com/JosefTewodros12/phone-dialer.git](https://github.com/JosefTewodros12/phone-dialer.git)
+   cd phone-dialer
