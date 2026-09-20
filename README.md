@@ -4,7 +4,7 @@ A Java Swing GUI desktop application built with Maven that simulates a telephone
 
 ## Screenshots
 
-<p align="center">
+<p align="left">
   <img src="screenshot/dialpad.jpg" width="20%" alt="Dialpad View" />
   <img src="screenshot/phonecall.jpg" width="20%" alt="Calling View" />
 </p>
